@@ -1,6 +1,6 @@
 {}
   "name": "RAVANA BOT",
-  "version": "4.5.0",
+  "version": "4.5.1",
   "description": "RAVANA project - Makes it easy and fun to use Whatsapp",
   "main": "./4.5/bot.js",
   "scripts": {
